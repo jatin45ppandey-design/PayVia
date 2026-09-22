@@ -78,5 +78,3 @@ public class PaymentController {
         return ResponseEntity.ok(timelineService.getTimeline(transactionId, user.getId()));
     }
 }
-
-// touched to trigger IDE re-indexing

@@ -51,6 +51,3 @@ public class WalletController {
         return ResponseEntity.ok(walletDto);
     }
 }
-
-// touched to trigger IDE re-indexing
-
